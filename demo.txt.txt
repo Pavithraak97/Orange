@@ -8,7 +8,8 @@ git push
 git commit
 git log
 git add
-
+git stash list
+git stash apply
 
 
 welcome
