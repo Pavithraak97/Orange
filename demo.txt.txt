@@ -1,1 +1,3 @@
 welcome
+git pull
+git init
